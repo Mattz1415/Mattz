@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Audio Prank</string>
+    <string name="title_player">Sound Prank Player</string>
+    <string name="status_playing">Sedang Memutar Audio...</string>
+    <string name="status_paused">Audio Dijeda</string>
+    <string name="status_stopped">Audio Berhenti</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_resume">Lanjutkan</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_play_again">Play Again</string>
+    <string name="volume_max_info">Volume Media otomatis diatur ke 100%</string>
+</resources>

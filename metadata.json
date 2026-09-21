@@ -1,0 +1,6 @@
+{
+  "name": "Audio Prank",
+  "description": "Aplikasi pemutar audio otomatis dengan volume maksimal dan manajemen kontrol audio lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
