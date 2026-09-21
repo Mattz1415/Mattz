@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Audio Prank</string>
+    <string name="app_name">Server test</string>
     <string name="title_player">Sound Prank Player</string>
     <string name="status_playing">Sedang Memutar Audio...</string>
     <string name="status_paused">Audio Dijeda</string>
